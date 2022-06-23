@@ -5,7 +5,7 @@ import Profile3 from "../Images/Profile3.png"
 const Cards = () =>{
     return(
         
-        <div className=" mx-10 sm:mx-2 md:mx-2  ">
+        <div className=" mx-8 sm:mx-2 md:mx-2  ">
             <div className=" max-w-[1240px] py-10 mx-auto grid md:grid-cols-3 sm:grid-cols-3  ">
 
                 <div className=" bg-gray-500 sm:mx-0 md:mx-2 lg:mx-10 py-6 my-8 flex flex-col justify-center items-center rounded-2xl drop-shadow-md hover:scale-105 duration-500  ">
